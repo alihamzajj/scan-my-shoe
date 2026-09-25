@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" fill="none">
+  <!-- Front / Toe Box View -->
+  <!-- Outer Mudguard Outline -->
+  <path d="M 160,340 C 120,310 110,240 125,180 C 145,110 200,60 250,60 C 300,60 355,110 375,180 C 390,240 380,310 340,340 C 300,355 200,355 160,340 Z" 
+        stroke="#60A5FA" stroke-width="3.5" stroke-dasharray="8 6" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Toe Box Vamp Curve -->
+  <path d="M 160,200 C 180,140 220,110 250,110 C 280,110 320,140 340,200 C 330,240 290,260 250,260 C 210,260 170,240 160,200 Z" 
+        stroke="#93C5FD" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 4" />
+  <!-- Perforation Dots Guide Array -->
+  <circle cx="250" cy="150" r="3" fill="#60A5FA" />
+  <circle cx="230" cy="165" r="3" fill="#60A5FA" />
+  <circle cx="250" cy="170" r="3" fill="#60A5FA" />
+  <circle cx="270" cy="165" r="3" fill="#60A5FA" />
+  <circle cx="215" cy="185" r="3" fill="#60A5FA" />
+  <circle cx="235" cy="190" r="3" fill="#60A5FA" />
+  <circle cx="250" cy="192" r="3" fill="#60A5FA" />
+  <circle cx="265" cy="190" r="3" fill="#60A5FA" />
+  <circle cx="285" cy="185" r="3" fill="#60A5FA" />
+  <!-- Tongue / Lace Base -->
+  <path d="M 210,290 L 250,265 L 290,290" stroke="#3B82F6" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="215" y1="315" x2="285" y2="315" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" />
+  <!-- Target Center Crosshair -->
+  <circle cx="250" cy="180" r="40" stroke="#3B82F6" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.6"/>
+  <!-- Label -->
+  <text x="250" y="380" font-family="sans-serif" font-size="14" fill="#93C5FD" font-weight="600" text-anchor="middle" letter-spacing="2">TOE BOX &amp; FRONT VAMP</text>
+</svg>

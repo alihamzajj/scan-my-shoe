@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" fill="none">
+  <!-- Sneaker Left Profile Outline -->
+  <path d="M 60,220 C 60,200 90,195 120,195 C 160,195 180,180 200,140 C 215,110 240,90 280,85 C 310,80 340,90 350,110 C 355,120 370,165 410,185 C 440,200 455,215 450,230 C 445,245 425,250 380,250 C 300,252 180,252 90,250 C 70,250 60,235 60,220 Z" 
+        stroke="#60A5FA" stroke-width="3.5" stroke-dasharray="8 6" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Sole Line -->
+  <path d="M 62,235 C 150,235 320,237 445,235" stroke="#60A5FA" stroke-width="2.5" stroke-linecap="round" />
+  <!-- Collar / Ankle Opening -->
+  <path d="M 280,85 C 295,95 325,100 350,110" stroke="#93C5FD" stroke-width="2" stroke-linecap="round" />
+  <!-- Lacing Eyestay -->
+  <path d="M 220,145 C 240,135 265,120 285,95" stroke="#93C5FD" stroke-width="2" stroke-linecap="round" />
+  <!-- Swoosh / Accent Swish -->
+  <path d="M 180,185 C 240,185 300,165 350,140 C 330,175 270,210 210,205 Z" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Alignment Crosshairs -->
+  <line x1="250" y1="20" x2="250" y2="50" stroke="#60A5FA" stroke-width="1.5" stroke-dasharray="3 3" />
+  <line x1="250" y1="260" x2="250" y2="290" stroke="#60A5FA" stroke-width="1.5" stroke-dasharray="3 3" />
+  <!-- Direction indicator label -->
+  <text x="250" y="280" font-family="sans-serif" font-size="14" fill="#93C5FD" font-weight="600" text-anchor="middle" letter-spacing="2">OUTER LATERAL PROFILE (LEFT)</text>
+</svg>

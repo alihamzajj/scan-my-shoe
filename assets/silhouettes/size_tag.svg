@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <!-- Size Tag Box Guide -->
+  <!-- Tag Outer Border -->
+  <rect x="70" y="60" width="260" height="260" rx="14" stroke="#60A5FA" stroke-width="3.5" stroke-dasharray="8 6" />
+  
+  <!-- Factory / Brand Header Line -->
+  <rect x="95" y="85" width="210" height="24" rx="4" stroke="#93C5FD" stroke-width="1.5" stroke-dasharray="4 4" />
+  <text x="200" y="102" font-family="sans-serif" font-size="11" fill="#93C5FD" font-weight="600" text-anchor="middle">SIZE / FACTORY CODE</text>
+  
+  <!-- US UK EUR CM Grid -->
+  <line x1="95" y1="125" x2="305" y2="125" stroke="#93C5FD" stroke-width="1.5" />
+  <line x1="95" y1="165" x2="305" y2="165" stroke="#93C5FD" stroke-width="1.5" />
+  <line x1="147" y1="125" x2="147" y2="165" stroke="#93C5FD" stroke-width="1.5" />
+  <line x1="200" y1="125" x2="200" y2="165" stroke="#93C5FD" stroke-width="1.5" />
+  <line x1="252" y1="125" x2="252" y2="165" stroke="#93C5FD" stroke-width="1.5" />
+  
+  <!-- Style Code Area -->
+  <rect x="95" y="180" width="210" height="22" rx="4" stroke="#3B82F6" stroke-width="1.5" stroke-dasharray="3 3" />
+  <text x="200" y="196" font-family="sans-serif" font-size="10" fill="#93C5FD" font-weight="500" text-anchor="middle">SKU: ######-###</text>
+  
+  <!-- UPC / Barcode & QR guide -->
+  <line x1="110" y1="225" x2="110" y2="280" stroke="#60A5FA" stroke-width="3" />
+  <line x1="120" y1="225" x2="120" y2="280" stroke="#60A5FA" stroke-width="1.5" />
+  <line x1="130" y1="225" x2="130" y2="280" stroke="#60A5FA" stroke-width="4" />
+  <line x1="142" y1="225" x2="142" y2="280" stroke="#60A5FA" stroke-width="2" />
+  <line x1="155" y1="225" x2="155" y2="280" stroke="#60A5FA" stroke-width="3.5" />
+  
+  <rect x="235" y="225" width="55" height="55" rx="4" stroke="#60A5FA" stroke-width="2" stroke-dasharray="3 3" />
+  <rect x="245" y="235" width="15" height="15" fill="#60A5FA" opacity="0.6" />
+  
+  <!-- Label -->
+  <text x="200" y="365" font-family="sans-serif" font-size="13" fill="#93C5FD" font-weight="600" text-anchor="middle" letter-spacing="2">SIZE TAG &amp; SERIAL NUMBER</text>
+</svg>

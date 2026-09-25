@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" fill="none">
+  <!-- Sneaker Right Profile Outline (Mirrored) -->
+  <path d="M 440,220 C 440,200 410,195 380,195 C 340,195 320,180 300,140 C 285,110 260,90 220,85 C 190,80 160,90 150,110 C 145,120 130,165 90,185 C 60,200 45,215 50,230 C 55,245 75,250 120,250 C 200,252 320,252 410,250 C 430,250 440,235 440,220 Z" 
+        stroke="#60A5FA" stroke-width="3.5" stroke-dasharray="8 6" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Sole Line -->
+  <path d="M 438,235 C 350,235 180,237 55,235" stroke="#60A5FA" stroke-width="2.5" stroke-linecap="round" />
+  <!-- Collar / Ankle Opening -->
+  <path d="M 220,85 C 205,95 175,100 150,110" stroke="#93C5FD" stroke-width="2" stroke-linecap="round" />
+  <!-- Lacing Eyestay -->
+  <path d="M 280,145 C 260,135 235,120 215,95" stroke="#93C5FD" stroke-width="2" stroke-linecap="round" />
+  <!-- Medial Arch Support Arc -->
+  <path d="M 320,185 C 260,185 200,165 150,140 C 170,175 230,210 290,205 Z" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Alignment Crosshairs -->
+  <line x1="250" y1="20" x2="250" y2="50" stroke="#60A5FA" stroke-width="1.5" stroke-dasharray="3 3" />
+  <line x1="250" y1="260" x2="250" y2="290" stroke="#60A5FA" stroke-width="1.5" stroke-dasharray="3 3" />
+  <!-- Direction indicator label -->
+  <text x="250" y="280" font-family="sans-serif" font-size="14" fill="#93C5FD" font-weight="600" text-anchor="middle" letter-spacing="2">INNER MEDIAL PROFILE (RIGHT)</text>
+</svg>
