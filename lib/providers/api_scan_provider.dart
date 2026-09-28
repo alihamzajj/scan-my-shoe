@@ -19,7 +19,7 @@ class ApiScanState {
     this.statusPhrase = 'Initializing neural inspection...',
     this.result,
     this.errorMessage,
-    this.mockScenario = MockScenario.random,
+    this.mockScenario = MockScenario.authentic,
   });
 
   ApiScanState copyWith({
